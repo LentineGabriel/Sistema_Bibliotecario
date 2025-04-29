@@ -13,9 +13,6 @@ Por ser um projeto simples (apenas com lógica e POO e agora sendo atualizado co
 ​​🤷‍♂️​ - O projeto conta com várias verificações para que exceções indesejadas não sejam disparadas enquanto as operações básicas são realizadas; <br>
 ​✅​ - Lógica de Programação e vários conceitos de POO estão aplicados (como exceptions, modificadores de acesso, expressões lambda...); <br>
 📁 - O projeto está organizado em pastas para melhor navegação e organização;
-✨​ - O projeto está sendo atualizado para se adequar aos Princípios SOLID.
 
 ## CONSIDERAÇÕES FINAIS
 O projeto foi bem divertido de ser feito. Foi uma experiência incrível e desafiadora, apesar de simples. Tentei deixá-lo o mais amigável possível, mas com uma lógica bem estruturada por trás; possibilitando ao usuário uma boa, fácil e agradável experiência. Não é um projeto 100% perfeito, com certeza deve ter tidos erros que deixei passar, mas para um pouco mais de 11 meses de estudos estou muito satisfeito com o resultado; e em busca de desafios maiores, mas tão prazeroso quanto foi esse. <br>
-
-O projeto está sendo atualizado, melhorando sua legibilidade e aplicando os princípios SOLID. <br>
